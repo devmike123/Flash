@@ -1,6 +1,4 @@
-<?php
-$profpic = "images.png";
-?>
+
 
 <html> 
 
@@ -16,7 +14,7 @@ $profpic = "images.png";
 
     body { 
 
-      background-image: url('<?php echo $profpic;?>');
+      background: #5865f2;
 
       display: flex; 
 
